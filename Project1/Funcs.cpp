@@ -11,3 +11,10 @@ int Min(int a, int b)
 		return a;
 	return b;
 }
+
+int Max(int a, int b)
+{
+	if (a > b)
+		return a;
+	return b;
+}
