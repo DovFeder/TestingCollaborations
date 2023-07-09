@@ -2,5 +2,5 @@
 
 void Print()
 {
-	printf("bf9326");
+	printf("changes of bf");
 }
